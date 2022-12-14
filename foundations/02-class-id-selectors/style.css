@@ -1,0 +1,18 @@
+p {
+    background-color: pink;
+    font-size: 20px;
+}
+
+#one {
+    background-color: white;
+    color: blue;
+    font-size: 40px;
+}
+
+#another {
+    background-color: greenyellow;
+    color: black;
+    font-weight: bold;
+    font-size: 28px;
+}
+
